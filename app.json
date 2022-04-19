@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "RD-Hadinata Jenta-119140067-Tugas individu4",
+    "slug": "snack-7e4455b1-f35c-41dc-8758-bed8bbbc7e7d",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.tugas4.hadinata"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "Belajar react native dengan membuat aplikasi to do list"
+  }
+}
